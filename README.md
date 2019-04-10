@@ -5,7 +5,7 @@ Wake Up Light Project based on a NodeMCU
 - NodeMCU
 - TM1637 4 Bits Digital LED Display Module For arduino 7 Segment
 - WS2812B Digital LED Strip 5V
-- Switch
+- 16mm diameter metal switch
 - Potentiometer
 
 ## Functionality
