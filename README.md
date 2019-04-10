@@ -4,7 +4,7 @@ Wake Up Light Project based on a NodeMCU
 ## Elements needed
 - NodeMCU
 - TM1637 4 Bits Digital LED Display Module For arduino 7 Segment
-- Digital LED Strip
+- WS2812B Digital LED Strip 5V
 - Switch
 - Potentiometer
 
